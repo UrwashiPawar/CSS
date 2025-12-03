@@ -1,0 +1,162 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 10px;
+    margin: 10px;
+}
+
+.box{
+    height: 450px;
+    width: 450px;
+    background-color: rgb(187, 199, 199);
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.inner-box{
+    height: 390px;
+    width: 390px;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 15px;
+   
+}
+.img{
+    height: 350px;
+    width: 350px; 
+    border-radius: 8px; 
+}
+
+.box2{
+    height: 550px;
+    width: 400px;
+    background-color: rgb(35, 18, 69);
+    font-size: 30px; 
+    padding-left: 60px;
+
+
+}
+.para{
+ 
+    text-align: center;
+    background-color: rgb(247, 40, 199);
+}
+
+.inner-box-2{
+     height: 550px;
+    width: 280px;
+    background-color: rgb(188, 187, 190);
+    border-radius: 20px;
+}
+
+.inner-box-3{
+    height: 280px;
+    width: 280px;
+    background-color:blue(240, 248, 255);
+    padding-left: 60px;
+    padding-top: 30px;
+    border-radius: 10px;
+
+}
+
+.inner-box-4{
+    height: 150px;
+    width: 150px;
+    background-color:red
+    (255, 255, 255);
+    border-radius: 100px;
+
+
+}
+
+.img-2{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.box3{
+    height: 450px;
+    width: 450px;
+    background-color: rgb(207, 195, 178);
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+
+.inner-box-5{
+    height: 390px;
+    width: 390px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 10px;  
+   
+}
+      
+
+.sp{
+    color: blue;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    font-size: 25px;
+    padding-top: 50px;
+    
+}
+
+.sp2{
+    font-size: 20px;
+    color: black;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-top: 50px;
+}
+
+
+
+.img-3{
+    height: 130px;
+    width: 150px;
+    text-align: end;
+    margin-left: 220px;
+    margin-bottom: 30px;
+        
+
+}
+
+.button{
+    height: 40px;
+    width: 300px;
+    background-color:rgb(3, 205, 205);
+    border-radius: 8px;
+    padding-left: 30px;
+    text-align: center;
+    align-content: center;
+    color: rgb(55, 22, 22);
+    margin-left: 45px;
+
+
+}
+
+.ic{
+    font-size: 20px;
+    letter-spacing: 15px;
+}
+
+.p1{
+    font-size: 23px;
+    color: rgb(142, 141, 141);
+    padding-left: 50px;
+}
+
+.p2{
+    font-size: 23px;
+    color: rgb(142, 141, 141);
+    padding-left: 40px;
+}
+
+.para-2{
+    font-size: 40px;
+}
