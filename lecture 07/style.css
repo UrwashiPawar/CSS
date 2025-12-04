@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.A1{
+    height: 250px;
+    width: 100%;
+    background-color:darkgrey;
+    border-radius:20px;
+    border: 5px solid black;
+    margin: 10px;
+
+}
+div p:first-child{
+    font-size: 30px;
+    font-size: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+
+}
+div.p1::first-letter{
+    font-size: 50px;
+    color: blueviolet;
+    font-style: italic;
+}
+.p2{
+    font-size: 25px;
+    padding-left: 25px;
+}
+::selection{
+    background-color: yellow;
+    color: aqua;
+}
+.line-box1{
+    height: 40px;
+    width
+}
