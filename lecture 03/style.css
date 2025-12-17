@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+
+
+    h1{
+        color: rgb(255, 38, 222);
+        font-size: 33px;
+    }
+    #para{
+        color: green;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    </style>
+
+</head>
+<body>
+   
+    <!-- inline Css -->
+     <h1> 1.inline CSS</h1>
+   
+    <p style="color: rebeccapurple; font-size: 30px ;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque, temporibus?</p>
+    <p style="color: red; font-size: 30px ;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, aliquam.</p>
+    <p style="color: blue;font-size: 30px ;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem, doloribus.</p>
+
+
+    <h1> 2.Extranal Css</h1>
+
+    <p id="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate consectetursaepe
+         quasi voluptates cum in sapiente excepturi, temporibus mollitia dolorem doloribus 
+         tempora ad aperiam? Quam tempore saepe repudiandae dolores labore.</p>
+
+
+    <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, optio suscipit 
+        repellat iusto veniam cum laboriosam non itaque, animi consequuntur rem ad, in sint 
+        libero dolores adipisci. Reiciendis, molestiae non. Lorem ipsum dolor, sit amet consectetur
+         adipisicing elit. Ut ipsum, voluptatem in quasi ipsam debitis iste nam laborum similique sed
+         . Quod laudantium hic, perferendis vel cupiditate placeat laborum fuga! Placeat.</span>
+
+
+</body>
+</html>
