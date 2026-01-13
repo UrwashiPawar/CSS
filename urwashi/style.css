@@ -1,0 +1,334 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(232, 237, 237);
+}
+.section-1{
+    height: 70vh;
+    width: 100%;
+    position: relative;
+    left:60px;
+    background-image:url(./image.webp) ;
+    background-size: cover;
+    bottom: 25px;
+
+}
+.section-1 .sec-1{
+    height: 70vh;
+    width: 100%;
+    background-color: rgba(44, 43, 43, 0.5);;
+}
+
+.nav img{
+    color: whitesmoke;
+    height: 200px;
+    position: relative;
+    left: 50px;
+}
+
+.nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    bottom: 130px;
+    left: 430px;
+}
+
+.nav a:hover{
+    color: brown;
+    transform: scale(00.5s);
+}
+
+.search{
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: end;
+    position: relative;
+    right: 40px;
+    bottom: 155px;
+}
+.con{
+    display: flex;
+    justify-content: end;
+}
+.search button{
+    border: none;
+    position: relative;
+    left: 15px;
+    border-radius: 5px;
+    background-color: lightskyblue;
+}
+.con contant{
+    font-size: 80px;
+    font-weight: 500px;
+    color:azure
+    display:flex;
+    justify-content:end;
+    position: relative;
+    right:0px;
+}
+.con.but-1{
+    background-color:rgb(194,59,104) ;
+    border-radius:0px;
+    border: none;
+    position: relative;
+    right: 400px;
+    top:140PX;
+    height: 60PX;
+    width: 100PX;
+    font-size: 20PX;
+    border-radius: 10PX;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: aliceblue;
+
+}
+.con.but-1{
+    background-color:rgb(255,255,255) ;
+    border-radius:0px;
+    border: none;
+    position: relative;
+    right: 260px;
+    top:140PX;
+    height: 55PX;
+    width: 110PX;
+    font-size: 20PX;
+    border-radius: 10PX;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color:  rgb(194,59,104);
+
+}
+.airo{
+    height:50px;
+    width:50px;
+    background-color: white;
+    color:rgb(194,59,104);
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    right: 1600px;
+    top:100px;
+    display: flex;
+    align-items: center;
+
+
+}
+.airo-1{
+    height:50px;
+    width:50px;
+    background-color: white;
+    color:rgb(194,59,104);
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    right: 1600px;
+    top:100px;
+    display: flex;
+    align-items: center;
+
+
+
+}
+.section-2{
+    height: 80vh;
+    width:90%;
+    position: relative;
+    left: 80px;
+}
+.left img{
+    height: 600px;
+    width: 600px;
+    left:150px;
+    border-radius: 10px;
+    border:3px solid white;
+    
+}
+.left.cut{
+    height: 200px;
+    width: 300px;
+    position:relative;
+    right: 0px;
+    bottom: 190px;
+    background-image: url();
+    background-size: cover;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+.left.cut-1{
+    height: 150px;
+    width: 250px;
+    position:relative;
+    left: 600px;
+    bottom: 690px;
+    background-image: url(/A\ colorful\ floral\ pattern.jpg);
+    background-size: cover;
+    border: 2px solid white;
+    border-radius: 15px;
+
+}
+.right p{
+    font-size:30px;
+    color:rgb(194,59,104);
+    position: relative;
+    right:600px;
+    justify-content: end;
+    display: flex;
+    bottom: 800px;
+}
+.ri-separator{
+    font-size: 50px;
+    position:relative ;
+    top:40px ;
+    left:80px ;
+
+}
+.ri-circle-fill{
+     font-size: 20px;
+    position:relative ;
+    top:35px ;
+    left:30px ;
+
+
+}
+.contact-1{
+    font-size: 40px;
+    font-weight: 600;
+    color:rgb(0,0,0);
+    position: relative;
+    bottom: 850px;
+    display: flex;
+    justify-content: end;
+    right: 300px;
+}
+.contact-2{
+    font-size: 45px;
+    font-weight: 600;
+    color:rgb(0,0,0);
+    position: relative;
+    bottom: 800px;
+    display: flex;
+    justify-content: end;
+    right: 340px;
+}
+.contact-3{
+    font-size: 30px;
+    font-weight: 600;
+    color:rgb(81, 79, 79);
+    position: relative;
+    bottom: 800px;
+    display: flex;
+    justify-content: end;
+    right: 160px;
+}
+.contact-4{
+    font-size: 20px;
+    color:rgb(81, 79, 79);
+    position: relative;
+    bottom: 675px;
+    display: flex;
+    justify-content: end;
+    right: 550px;
+}
+.contact-5{
+    font-size: 20px;
+    font-weight: 600;
+    color:rgb(194,59,104);
+    position: relative;
+    bottom: 750px;
+    display: flex;
+    justify-content: end;
+    right: 650px;
+}
+.contact-6{
+    font-size: 20px;
+    color:rgb(0,0,0);
+    position: relative;
+    bottom: 850px;
+    display: flex;
+    justify-content: end;
+    right: 320px;
+}
+.ri-check-fill{
+    font-size:40px;
+    color:rgb(194,59,104) ;
+}
+.section-3{
+    height:65vh;
+    width:90%;
+    position: relative;
+    left: 80px;
+    background-color: rgb(226,223,223);
+}
+.section-3 p{
+    font-size: 20px;
+    color:rgb(241,55,117);
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:30px;
+    left:420px;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position: relative;
+    top: 100px;
+}
+.box-1{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(255,255,255);
+    border-radius: 10px;
+    position: relative;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    color:rgb(241,55,117);
+
+}
+.box-1 span{
+    font-size: 25px;
+    font-weight: 600;
+    position: relative;
+    top:90px;
+    right: 40px;
+    color: black;
+}
+.box-2{
+    height:400px ;
+    width: 250px ;
+    background-color:rgb(255,255,255);
+    border-radius:10px;
+    position: relative;
+    
+}
+
+.box-3{
+    height:400px ;
+    width: 250px ;
+    background-color:rgb(255,255,255);
+    border-radius:10px;
+    position: relative;
+    
+}
+.box-4{
+    height:400px ;
+    width: 250px ;
+    background-color:rgb(255,255,255);
+    border-radius:10px;
+    position: relative;
+    
+}
